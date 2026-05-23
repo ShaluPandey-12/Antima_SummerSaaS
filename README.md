@@ -1,4 +1,3 @@
-# Antima_SummerSaaS
 <div align="center">
 
 <img src="https://img.shields.io/badge/अंतिमा-Antima-D4AF37?style=for-the-badge&labelColor=8B4513&color=D4AF37" alt="Antima" width="200"/>
@@ -12,21 +11,16 @@
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-99%25-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
----
-
 > *"Honoring life's final chapter with dignity, technology, and compassion."*
 
 </div>
-
----
-
----
 
 ## 🌸 About the Project
 
 **Antima** (अंतिमा) means *"the last"* in Sanskrit — a platform built to support families during one of life's most difficult moments.
 
 This SaaS platform combines **AI technology** with **cultural sensitivity** to provide:
+
 - Step-by-step guidance for funeral rituals across **7 religions**
 - AI-powered grief counseling and emotional support
 - Hospital coordination and documentation management
@@ -35,8 +29,6 @@ This SaaS platform combines **AI technology** with **cultural sensitivity** to p
 
 Built as part of **Summer SaaS 2025** challenge.
 
----
-
 ## 🚀 Live Demo
 
 <div align="center">
@@ -44,8 +36,6 @@ Built as part of **Summer SaaS 2025** challenge.
 ### 👉 [https://antima-summer-saa-2h08i3eiw-shalupandey-12s-projects.vercel.app/](https://antima-summer-saa-2h08i3eiw-shalupandey-12s-projects.vercel.app/)
 
 </div>
-
----
 
 ## ✨ Features
 
@@ -62,8 +52,6 @@ Built as part of **Summer SaaS 2025** challenge.
 | 🌐 **Multi-Language** | Support for regional Indian languages |
 | 🔐 **Firebase Auth** | Secure login & signup with Firebase |
 | 📱 **Fully Responsive** | Mobile-first design with smooth animations |
-
----
 
 ## 🛠 Tech Stack
 
@@ -92,8 +80,6 @@ Built as part of **Summer SaaS 2025** challenge.
 | **Icons** | Lucide React |
 | **Charts** | Recharts |
 | **Deployment** | Vercel |
-
----
 
 ## 🏁 Getting Started
 
@@ -147,36 +133,32 @@ npm run build
 npm start
 ```
 
----
-
 ## 📁 Project Structure
 
-```
+```text
 src/
 ├── components/
-│   ├── LandingPage.tsx       # Landing page with hero section
-│   ├── AuthScreen.tsx        # Login & Signup screen
-│   ├── HomeScreen.tsx        # Main dashboard with AI chat
-│   ├── RitualScreen.tsx      # Religion-based ritual guide
-│   ├── CommunicateScreen.tsx # Family communication tools
-│   ├── MarketplaceScreen.tsx # Products marketplace
-│   ├── EventsScreen.tsx      # Ceremony scheduling
-│   ├── FinancialScreen.tsx   # Expense management
-│   ├── GriefScreen.tsx       # AI grief counseling
-│   ├── AccountScreen.tsx     # User profile & settings
-│   ├── FirebaseProvider.tsx  # Firebase auth context
-│   ├── Layout.tsx            # Navbar, Footer, FAB
-│   └── hospital/             # Hospital coordination module
+│   ├── LandingPage.tsx
+│   ├── AuthScreen.tsx
+│   ├── HomeScreen.tsx
+│   ├── RitualScreen.tsx
+│   ├── CommunicateScreen.tsx
+│   ├── MarketplaceScreen.tsx
+│   ├── EventsScreen.tsx
+│   ├── FinancialScreen.tsx
+│   ├── GriefScreen.tsx
+│   ├── AccountScreen.tsx
+│   ├── FirebaseProvider.tsx
+│   ├── Layout.tsx
+│   └── hospital/
 ├── services/
-│   ├── aiService.ts          # Google Gemini AI integration
-│   └── firestoreService.ts   # Firebase Firestore operations
-├── lib/                      # Utility functions
-├── data.ts                   # Religions, regions, experts data
-├── App.tsx                   # Main app with routing
-└── main.tsx                  # Entry point
+│   ├── aiService.ts
+│   └── firestoreService.ts
+├── lib/
+├── data.ts
+├── App.tsx
+└── main.tsx
 ```
-
----
 
 ## 🌍 Supported Religions & Regions
 
@@ -184,30 +166,24 @@ src/
 
 **Regions:** North India • South India • East India • West India • Central India
 
----
-
 ## 👩‍💻 Author
 
 <div align="center">
 
-**Shalu Pandey**
+# Shalu Pandey
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shalupandey--12.github.io-D4AF37?style=for-the-badge&logo=github-pages&logoColor=white)](https://shalupandey-12.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shalu-pandey-2b90a9282/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shalu-pandey-3b68b1307/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ShaluPandey-12)
 
-*B.Tech CSE Student @ CMR Engineering College, Hyderabad*
+*B.Tech CSE Student @ CMR Engineering College, Hyderabad*  
 *Smart India Hackathon Finalist | Runner-Up National Project Expo Vishesh 2025*
 
 </div>
 
----
-
 ## 📄 License
 
 This project was built as part of the **Summer SaaS 2025** challenge.
-
----
 
 <div align="center">
 
