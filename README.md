@@ -183,7 +183,7 @@ src/
 
 ## 📄 License
 
-This project was built as part of the **Summer SaaS 2025** challenge.
+This project was built as part of the **Summer SaaS 2026** challenge.
 
 <div align="center">
 
