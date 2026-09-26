@@ -104,3 +104,91 @@ npm install
 
 # 4. Create environment file
 cp .env.example .env
+```
+
+### Environment Variables
+
+Create a `.env` file in the root directory:
+
+```env
+VITE_FIREBASE_API_KEY=your_firebase_api_key
+VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
+VITE_FIREBASE_PROJECT_ID=your_firebase_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+VITE_FIREBASE_APP_ID=your_app_id
+GEMINI_API_KEY=your_gemini_api_key
+```
+
+### Run Locally
+
+```bash
+# Development mode
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
+```
+
+## 📁 Project Structure
+
+```text
+src/
+├── components/
+│   ├── LandingPage.tsx
+│   ├── AuthScreen.tsx
+│   ├── HomeScreen.tsx
+│   ├── RitualScreen.tsx
+│   ├── CommunicateScreen.tsx
+│   ├── MarketplaceScreen.tsx
+│   ├── EventsScreen.tsx
+│   ├── FinancialScreen.tsx
+│   ├── GriefScreen.tsx
+│   ├── AccountScreen.tsx
+│   ├── FirebaseProvider.tsx
+│   ├── Layout.tsx
+│   └── hospital/
+├── services/
+│   ├── aiService.ts
+│   └── firestoreService.ts
+├── lib/
+├── data.ts
+├── App.tsx
+└── main.tsx
+```
+
+## 🌍 Supported Religions & Regions
+
+**Religions:** Hindu • Muslim • Christian • Sikh • Jain • Buddhist • Other
+
+**Regions:** North India • South India • East India • West India • Central India
+
+## 👩‍💻 Author
+
+<div align="center">
+
+# Shalu Pandey
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shalupandey--12.github.io-D4AF37?style=for-the-badge&logo=github-pages&logoColor=white)](https://shalupandey-12.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shalu-pandey-3b68b1307/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ShaluPandey-12)
+
+*B.Tech CSE Student @ CMR Engineering College, Hyderabad*  
+*Smart India Hackathon Finalist | Runner-Up National Project Expo Vishesh 2025*
+
+</div>
+
+## 📄 License
+
+This project was built as part of the **Summer SaaS 2026** challenge.
+
+<div align="center">
+
+Made with ❤️ and 🪔 by **Shalu Pandey**
+
+⭐ *If you found this helpful, give it a star!* ⭐
+
+</div>
