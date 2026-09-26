@@ -6,7 +6,7 @@
 
 ### *A compassionate AI-powered SaaS platform for end-of-life rituals, grief support & family guidance*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-D4AF37?style=for-the-badge&logoColor=white)](https://antima-summer-saa-2h08i3eiw-shalupandey-12s-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-D4AF37?style=for-the-badge&logoColor=white)](https://antima-summer-saa-dmlspfwta-shalupandey-12s-projects.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-ShaluPandey--12-181717?style=for-the-badge&logo=github)](https://github.com/ShaluPandey-12/Antima_SummerSaaS)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-99%25-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
